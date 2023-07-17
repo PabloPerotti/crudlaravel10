@@ -1,0 +1,55 @@
+#encabezado {
+    background: url(./img/encabezado.jpg);
+    background-size: cover;
+    padding: 190px 0;
+    margin-top: -25px;
+}
+h1 {
+    font-size: 100px;
+    font-family: "Lora", sans-serif;
+    font-weight: bold;
+    color: #280400;
+    margin-bottom: 0;
+    padding-left: 150px;
+    
+}
+h2{
+    font-size: 100px;
+    font-family: "Lora", sans-serif;
+    font-weight: bold;
+    color: #280400;
+    margin-bottom: 0;
+    padding-left: 100px;
+}
+#encabezado p {
+    width: 50%;
+    color: #666;
+    margin-bottom: 50px;
+    padding-left: 150px;
+}
+#encabezado a{
+    text-decoration: none;
+    color: #280400;
+    border: 1px solid #280400;
+    padding: 40px 60px 40px 60px;
+}
+.columnas {
+    text-decoration: none;
+    color: #280400;
+    padding: 20px 40px 20px 40px;
+}
+
+.columnas{
+    display: flex;
+
+}
+.columnas img {
+    width: 60%;
+
+}
+.columna p {
+    color: #666
+}
+columna1 p{
+    color: #280400;
+}
